@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Dinh Quan ELV
-# A passionate Full-stack Developer
+# Hi there 👋 I'm Dinh Quan ELV
+## A passionate Full-stack Developer
 
 ![](https://komarev.com/ghpvc/?username=dinhquanelv&color=blue)
 
