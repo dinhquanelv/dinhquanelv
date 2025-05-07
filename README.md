@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dinhquanelv&color=blue)
 
-### [My Portfolio](https://www.dinhquanelv.site)
+### [Check out my Portfolio here](https://www.dinhquanelv.site)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
