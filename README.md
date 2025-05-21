@@ -7,6 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-- 🔭 I’m currently working on [flashvn-service](https://github.com/dinhquanelv/flashvn-service)
+- 🔭 I’m currently working on [flashvn-service](https://github.com/dinhquanelv/axolite-service)
 - 🌱 I’m currently learning NextJS, NestJS
 - 📫 How to reach me: quanvonguyendinh@gmail.com
