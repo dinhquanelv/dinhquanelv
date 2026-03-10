@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=dinhquanelv&color=blue)
 
 ## 🧠 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,cs,dart)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,cs)](https://skillicons.dev)
 
 ## 🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,tailwind,figma)](https://skillicons.dev)
