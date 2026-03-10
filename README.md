@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Dinh Quan ELV
-## Software Engineer
+# Hi there 👋 I'm Dinh Quan ELV - Software Engineer
 
 ![](https://komarev.com/ghpvc/?username=dinhquanelv&color=blue)
 
