@@ -1,12 +1,9 @@
 # Hi there 👋 I'm Dinh Quan ELV
-## A passionate Full-stack Developer
+## Software Engineer
 
 ![](https://komarev.com/ghpvc/?username=dinhquanelv&color=blue)
 
-### [Check out my Portfolio here](https://www.dinhquanelv.site)
+## Main Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,nestjs,dotnet,react,nextjs,angular,tailwind,postgres,mysql,mongodb,firebase,redis,flutter,apple,linux,ubuntu)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-- 🔭 I’m currently working on [axolite-service](https://github.com/dinhquanelv/axolite-service)
-- 🌱 I’m currently learning NextJS, NestJS
-- 📫 How to reach me: quanvonguyendinh@gmail.com
+ 📫 How to reach me: quanvonguyendinh@gmail.com
