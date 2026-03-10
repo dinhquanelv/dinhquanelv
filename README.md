@@ -3,7 +3,31 @@
 
 ![](https://komarev.com/ghpvc/?username=dinhquanelv&color=blue)
 
-## Main Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,nestjs,dotnet,react,nextjs,angular,tailwind,postgres,mysql,mongodb,firebase,redis,flutter,apple,linux,ubuntu)](https://skillicons.dev)
+## 🧠 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,cs,dart)](https://skillicons.dev)
+
+## 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,tailwind)](https://skillicons.dev)
+
+## ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet)](https://skillicons.dev)
+
+## 🗄️ Database
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,redis)](https://skillicons.dev)
+
+## ☁️ Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker)](https://skillicons.dev)
+
+## 📨 Messaging & Streaming
+[![Messaging](https://skillicons.dev/icons?i=rabbitmq,kafka)](https://skillicons.dev)
+
+## 📱 Mobile
+[![Mobile](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
+## 🖥️ OS & Environment
+[![OS](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu)](https://skillicons.dev)
+
+## 🎨 Design
+[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
  📫 How to reach me: quanvonguyendinh@gmail.com
